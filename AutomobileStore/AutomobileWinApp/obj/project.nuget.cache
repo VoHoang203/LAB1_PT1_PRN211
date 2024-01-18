@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "JHVbs4pTh/a2FcxjZXTitgQOA96TCbEceRpQ0jpX2Vp0PzO86Fn3pZh6+zYDWXXPO2rqGrrlKkUbR2AItzAG7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\GITHUb\\Hoangvahe172856_SE1752_NET\\AutomobileStore\\AutomobileWinApp\\AutomobileWinApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
